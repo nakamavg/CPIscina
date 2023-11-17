@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//#include <stdio.h>
-
 void	ft_sort_int_tab(int *tab, int size)
 {
 	int		swap;
@@ -31,24 +29,3 @@ void	ft_sort_int_tab(int *tab, int size)
 			count++;
 	}
 }
-/*
-int main()
-{
-    int arr[] = {6, 5, 4, 3, 2, 1};
-
- for (int i = 0; i < 6; i++)
-    {
-        printf("%d\n ", arr[i]);
-    }
-
-
-    ft_sort_int_tab(arr, 6);
-
-    // Print the sorted array
-    for (int i = 0; i < 6; i++)
-    {
-        printf("%d ", arr[i]);
-    }
-
-    return 0;
-}*/
