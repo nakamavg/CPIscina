@@ -4,6 +4,33 @@ Este repositorio contiene ejercicios de C para aprender y practicar el lenguaje 
 
 ## Estructura del Repositorio
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  td a {
+    color: #008CBA;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  td a:hover {
+    text-decoration: underline;
+  }
+</style>
 
 | **C01** |                                                 |
 |---------|-------------------------------------------------|
@@ -28,7 +55,5 @@ Este repositorio contiene ejercicios de C para aprender y practicar el lenguaje 
 | ex06    | [Medir la longitud de lo que apunta el puntero](c02/ex06) |
 | ex07    | [Recorrer un array desde el principio y el final](c02/ex07) |
 | ex08    | [Consolidar conocimientos de un array](c02/ex08) |
-
-
 
 
