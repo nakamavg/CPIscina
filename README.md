@@ -1,4 +1,4 @@
-# EJERCICIOS DE LA PISCINA Dgm
+# EJERCICIOS DE LA PISCINA dgomez-m
 
 Este repositorio contiene ejercicios de C para aprender y practicar el lenguaje de programación C.
 
@@ -30,7 +30,5 @@ Este repositorio contiene ejercicios de C para aprender y practicar el lenguaje 
 | ex08    | [Consolidar conocimientos de un array](c02/ex08) |
 
 
-## Contribuir
 
-Siéntete libre de contribuir a este repositorio abriendo problemas o enviando solicitudes de extracción.
 
