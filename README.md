@@ -4,34 +4,6 @@ Este repositorio contiene ejercicios de C para aprender y practicar el lenguaje 
 
 ## Estructura del Repositorio
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-
-  th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-
-  td a {
-    color: #008CBA;
-    text-decoration: none;
-    font-weight: bold;
-  }
-
-  td a:hover {
-    text-decoration: underline;
-  }
-</style>
-
 | **C01** |                                                 |
 |---------|-------------------------------------------------|
 | ex00    | [Iniciando en Punteros](c01/ex00)               |
